@@ -71,6 +71,10 @@ button:focus-visible {
   border-radius: 0px 0px 15px 15px;
   min-height: 300px;
 }
+.card:hover {
+  background-color: orange;
+  cursor: pointer;
+}
 
 .card-content {
   padding: 20px 10px 20px 10px;

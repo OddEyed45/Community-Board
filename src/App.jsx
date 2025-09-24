@@ -7,7 +7,7 @@ const App = () => {
     <>
       <div className='App'>
         <img className='image' src=".\src\assets\awning.png"/>
-        <h1 className='title'>Food Truck Favorites</h1>
+        <h1 className='title'>NYC's Food Truck Favorites</h1>
         <div className='cards'>
           <Card name="Birria Landia" cuisine="Mexican" link=".\src\assets\birria-landia.jpeg"></Card>
           <Card name="NY Dosas" cuisine="Indian" link=".\src\assets\ny-dosas.jpg"></Card>
